@@ -1,0 +1,81 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 100%;
+    height: 100%;
+    color: white;
+    background-image: url("../images/controller.jpg");
+    background-size: 100%;
+    background-size: cover;
+}
+.container {
+   width: 100%;
+   height: 100%;
+}
+
+.header {
+    height: 75px;
+    background-color: #000000;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.title {
+    padding: 15px;
+    letter-spacing: 5px;
+}
+
+/* .trivia-box {
+    width: 1250px;
+    height: 500px;
+    margin: auto;
+    margin-top: 75px; 
+} */
+
+.btn {
+    margin: auto;
+    height: 75px;
+
+}
+
+#choices {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    height: 100%;
+}
+
+.trivia-box {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+#credits {
+    margin: auto;
+    padding: 25px 0;
+}
+
+button {
+    width: 35%;
+    height: 15%;
+    font-size: 45px;
+    border-radius: 10px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+} 
+
+#start-btn {
+    margin: auto;
+}
+
+div {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
